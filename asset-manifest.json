@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/misuzu-portfolio/static/css/main.cde5dcba.chunk.css",
-    "main.js": "/misuzu-portfolio/static/js/main.8380299a.chunk.js",
-    "main.js.map": "/misuzu-portfolio/static/js/main.8380299a.chunk.js.map",
+    "main.js": "/misuzu-portfolio/static/js/main.dca9d5d4.chunk.js",
+    "main.js.map": "/misuzu-portfolio/static/js/main.dca9d5d4.chunk.js.map",
     "runtime-main.js": "/misuzu-portfolio/static/js/runtime-main.118acf21.js",
     "runtime-main.js.map": "/misuzu-portfolio/static/js/runtime-main.118acf21.js.map",
     "static/js/2.603575e6.chunk.js": "/misuzu-portfolio/static/js/2.603575e6.chunk.js",
     "static/js/2.603575e6.chunk.js.map": "/misuzu-portfolio/static/js/2.603575e6.chunk.js.map",
     "index.html": "/misuzu-portfolio/index.html",
-    "precache-manifest.7ce8c572b5b56416015732209f41c3c0.js": "/misuzu-portfolio/precache-manifest.7ce8c572b5b56416015732209f41c3c0.js",
+    "precache-manifest.0ed1869b04fc1bfdc0fba8f8473b4ed5.js": "/misuzu-portfolio/precache-manifest.0ed1869b04fc1bfdc0fba8f8473b4ed5.js",
     "service-worker.js": "/misuzu-portfolio/service-worker.js",
     "static/css/main.cde5dcba.chunk.css.map": "/misuzu-portfolio/static/css/main.cde5dcba.chunk.css.map",
     "static/js/2.603575e6.chunk.js.LICENSE.txt": "/misuzu-portfolio/static/js/2.603575e6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.118acf21.js",
     "static/js/2.603575e6.chunk.js",
     "static/css/main.cde5dcba.chunk.css",
-    "static/js/main.8380299a.chunk.js"
+    "static/js/main.dca9d5d4.chunk.js"
   ]
 }
