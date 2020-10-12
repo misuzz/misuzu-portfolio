@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/misuzu-portfolio/precache-manifest.0ed1869b04fc1bfdc0fba8f8473b4ed5.js"
+  "/misuzu-portfolio/precache-manifest.a30821ebbeedb27deeb3937dd584cb29.js"
 );
 
 self.addEventListener('message', (event) => {

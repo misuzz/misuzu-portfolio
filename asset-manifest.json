@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/misuzu-portfolio/static/css/main.cde5dcba.chunk.css",
-    "main.js": "/misuzu-portfolio/static/js/main.dca9d5d4.chunk.js",
-    "main.js.map": "/misuzu-portfolio/static/js/main.dca9d5d4.chunk.js.map",
+    "main.js": "/misuzu-portfolio/static/js/main.d732258f.chunk.js",
+    "main.js.map": "/misuzu-portfolio/static/js/main.d732258f.chunk.js.map",
     "runtime-main.js": "/misuzu-portfolio/static/js/runtime-main.118acf21.js",
     "runtime-main.js.map": "/misuzu-portfolio/static/js/runtime-main.118acf21.js.map",
-    "static/js/2.603575e6.chunk.js": "/misuzu-portfolio/static/js/2.603575e6.chunk.js",
-    "static/js/2.603575e6.chunk.js.map": "/misuzu-portfolio/static/js/2.603575e6.chunk.js.map",
+    "static/js/2.efd47483.chunk.js": "/misuzu-portfolio/static/js/2.efd47483.chunk.js",
+    "static/js/2.efd47483.chunk.js.map": "/misuzu-portfolio/static/js/2.efd47483.chunk.js.map",
     "index.html": "/misuzu-portfolio/index.html",
-    "precache-manifest.0ed1869b04fc1bfdc0fba8f8473b4ed5.js": "/misuzu-portfolio/precache-manifest.0ed1869b04fc1bfdc0fba8f8473b4ed5.js",
+    "precache-manifest.a30821ebbeedb27deeb3937dd584cb29.js": "/misuzu-portfolio/precache-manifest.a30821ebbeedb27deeb3937dd584cb29.js",
     "service-worker.js": "/misuzu-portfolio/service-worker.js",
     "static/css/main.cde5dcba.chunk.css.map": "/misuzu-portfolio/static/css/main.cde5dcba.chunk.css.map",
-    "static/js/2.603575e6.chunk.js.LICENSE.txt": "/misuzu-portfolio/static/js/2.603575e6.chunk.js.LICENSE.txt",
+    "static/js/2.efd47483.chunk.js.LICENSE.txt": "/misuzu-portfolio/static/js/2.efd47483.chunk.js.LICENSE.txt",
     "static/media/Animal-img": "/misuzu-portfolio/static/media/Animal-img.16c8a254.bin"
   },
   "entrypoints": [
     "static/js/runtime-main.118acf21.js",
-    "static/js/2.603575e6.chunk.js",
+    "static/js/2.efd47483.chunk.js",
     "static/css/main.cde5dcba.chunk.css",
-    "static/js/main.dca9d5d4.chunk.js"
+    "static/js/main.d732258f.chunk.js"
   ]
 }

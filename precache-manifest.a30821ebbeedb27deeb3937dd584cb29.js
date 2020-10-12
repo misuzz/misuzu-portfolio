@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efc1feda7c1c02f72ec2373ce7cd685e",
+    "revision": "9ad0d56b3befb3ac465f4bc6d939c94e",
     "url": "/misuzu-portfolio/index.html"
   },
   {
-    "revision": "273c2dfbfeb13d514c26",
+    "revision": "30f4ae44999e632b47fe",
     "url": "/misuzu-portfolio/static/css/main.cde5dcba.chunk.css"
   },
   {
-    "revision": "1ec852d8b8d0abe33877",
-    "url": "/misuzu-portfolio/static/js/2.603575e6.chunk.js"
+    "revision": "6e0178c66240501aacee",
+    "url": "/misuzu-portfolio/static/js/2.efd47483.chunk.js"
   },
   {
     "revision": "0445d5183d0141ac77c6557b72598011",
-    "url": "/misuzu-portfolio/static/js/2.603575e6.chunk.js.LICENSE.txt"
+    "url": "/misuzu-portfolio/static/js/2.efd47483.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "273c2dfbfeb13d514c26",
-    "url": "/misuzu-portfolio/static/js/main.dca9d5d4.chunk.js"
+    "revision": "30f4ae44999e632b47fe",
+    "url": "/misuzu-portfolio/static/js/main.d732258f.chunk.js"
   },
   {
     "revision": "5de8ee3854e8bba170b2",
